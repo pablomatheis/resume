@@ -1,0 +1,18 @@
+.center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 150px;
+  background: #FFCEC2;
+}
+
+/* Styling */
+
+body {
+  justify-content: center;
+  background-image: url('5594016-e1656071131636.jpg');
+  margin: auto;
+  width: auto;
+  padding: 50px;
+  font-family: 'Lexend Deca', sans-serif;
+}
